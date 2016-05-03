@@ -1,0 +1,3 @@
+para ingresar al codigo se debe entrar a:
+app > view > Main.js
+abrir el main con sublime text o block de notas
